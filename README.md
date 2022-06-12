@@ -1,2 +1,2 @@
 # DLFS
-Deep Learning From Scratch with Python using numpy and matlibplot
+Deep Learning From Scratch with Python using numpy and matlibplot library
